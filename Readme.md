@@ -59,3 +59,5 @@ This application allows users to upload datasets, explore them, preprocess the d
 ---
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
+
+REPO_URL: https://github.com/syedahsan297engr/data-dashboard

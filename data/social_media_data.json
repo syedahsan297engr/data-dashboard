@@ -1,0 +1,26 @@
+[
+  {
+      "user_id": 1,
+      "name": "Alice",
+      "posts": 150,
+      "followers": 1200,
+      "following": 300,
+      "likes_received": 2300
+  },
+  {
+      "user_id": 2,
+      "name": "Bob",
+      "posts": 200,
+      "followers": 1800,
+      "following": 250,
+      "likes_received": 3200
+  },
+  {
+      "user_id": 3,
+      "name": "Charlie",
+      "posts": 50,
+      "followers": 800,
+      "following": 100,
+      "likes_received": 600
+  }
+]

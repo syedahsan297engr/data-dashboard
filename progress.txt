@@ -1,0 +1,5 @@
+Will keep track of progress
+
+1-> Folder structure setup
+
+I will be making separate branch for different features as I will be making progress further, currently just working with main branch.

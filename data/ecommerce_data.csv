@@ -1,0 +1,5 @@
+Order_ID,Customer_ID,Product,Category,Price,Quantity,Order_Date,Delivery_Status
+5001,1,Laptop,Electronics,900,1,2024-01-01,Delivered
+5002,2,Table,Furniture,150,1,2024-01-03,Pending
+5003,3,Headphones,Electronics,50,2,2024-01-04,Delivered
+5004,4,Coffee Maker,Home Appliance,80,1,2024-01-05,Cancelled

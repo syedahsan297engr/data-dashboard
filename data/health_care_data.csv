@@ -1,0 +1,5 @@
+Patient_ID,Name,Age,Gender,Disease,Admission_Date,Discharge_Date,Treatment_Cost
+101,Anna Bell,45,Female,Diabetes,2024-01-10,2024-01-15,3000
+102,Mark Twain,52,Male,Heart Disease,2024-02-01,2024-02-10,15000
+103,Sara Miles,29,Female,Flu,2024-01-05,2024-01-08,800
+104,John Green,36,Male,Asthma,2024-02-12,2024-02-20,2000

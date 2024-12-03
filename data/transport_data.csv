@@ -1,0 +1,5 @@
+Date,Transport_Mode,City,Passengers,Revenue
+2024-01-01,Bus,New York,5000,25000
+2024-01-01,Train,Los Angeles,3000,15000
+2024-01-02,Bus,New York,5200,26000
+2024-01-02,Train,Los Angeles,2800,14000

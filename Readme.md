@@ -24,11 +24,7 @@ This application allows users to upload datasets, explore them, preprocess the d
    - Handling missing values
    - Feature engineering (if required).
 
-5. **Model Training**  
-   Users can select and train **Machine Learning (ML)** or **Deep Learning (DL)** models on the processed dataset.  
-   The app displays model performance metrics and predictions.
-
-6. **Results Visualization**  
+5. **Results Visualization**  
    The app visualizes the performance of the trained model and its predictions.
 
 ## **Tech Stack**
